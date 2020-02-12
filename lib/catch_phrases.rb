@@ -11,5 +11,5 @@ def toadstool
 end
 
 def link
-  phrase = h
+  phrase = 
   puts phrase 
